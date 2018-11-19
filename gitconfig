@@ -49,3 +49,5 @@
 [user]
 	email = nicolas.2000@hotmail.de
 	name = Nicolas Schroeder
+[credential]
+	helper = store
